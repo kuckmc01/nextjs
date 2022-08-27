@@ -1,0 +1,37 @@
+.textConverterOuter {
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: #4361EE;
+    width: 100%;
+    label, .description {
+        margin: 4rem 0;
+        line-height: 1.5;
+        font-size: 1.5rem;
+        width: 40%;
+    }
+    input, textarea {
+        background-color: #7209B7;
+        display:flex;
+        width:100%;
+        font-size: 1rem;
+    }
+}
+
+.inner {
+    width:50%;
+    margin:auto;
+}
+
+.result {
+    padding: 1rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    background-color: #4361EE;
+    width: 100%;
+    color: #fff;
+    label, .description {
+        margin: 4rem 0;
+        line-height: 1.5;
+        font-size: 1.5rem;
+    }
+}
